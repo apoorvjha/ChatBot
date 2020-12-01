@@ -1,0 +1,16 @@
+{
+    "inputs" : [
+        {
+            "in" : "hi!",
+            "action" : ""
+        },
+        {
+            "in" : "what do you do?",
+            "action" : ""
+        },
+        {
+            "in" : "I am suffering from fever",
+            "action" : ""
+        }
+    ]
+}
